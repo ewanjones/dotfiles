@@ -1,0 +1,13 @@
+[core]
+	excludesfile = /Users/ewanjones/.gitignore_global
+	editor = /usr/local/bin/mvim -v
+[user]
+	email = ewan.jones@octoenergy.com
+[commit]
+	template = /Users/ewanjones/.git_commit_msg.txt
+[credential]
+	helper = osxkeychain
+[hub]
+	protocol = https
+[rebase]
+	autosquash = true
